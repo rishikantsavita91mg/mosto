@@ -1,0 +1,212 @@
+@media screen and (max-width:1199px) {
+    .buy a {line-height: 35px;}
+    h1 {font-size: 46px;}
+    .banner-txt a {padding: 0 30px; line-height: 45px;}
+    .inertia-main p {line-height: 34px;}
+    .img-box {width: calc(33.33% - 16.66px);}
+    .project-main {column-gap: 25px; row-gap: 25px;}
+    #project {padding-top: 98px;}
+    .employee-main {padding: 120px 0 98px 0;}
+    .career-main {padding: 38px 0;}
+    .button-row a {line-height: 45px;}
+    .call-of-action a {line-height: 50px;}
+    #blog {padding: 88px 0;}
+    #footer {padding: 58px 0;}
+    .social-media-icon ul {padding: 54px 0;}
+    #project::after {margin-top: 54px;}
+}
+
+@media screen and (max-width:1023px) {
+    h1 {font-size: 42px; line-height: 60px;}
+    .banner-txt a {line-height: 40px;}
+    h3 {font-size: 30px;}
+    .inertia-main p {line-height: 30px; padding-top: 30px;}
+    #project {padding-top: 78px;}
+    .project-main {padding-top: 45px;}
+    .employee-main {padding: 80px 0;}
+    .employee-txt p {max-width: 456px; line-height: 35px;}
+    #career {padding: 66px 0;}
+    .career-main {padding: 30px 0;}
+    #blog {padding: 70px 0;}
+    h2 {font-size: 38px;}
+    .call-of-action h4 {max-width: 400px; font-size: 18px; padding-bottom: 38px;}
+    .call-of-action a {line-height: 40px;}
+    .social-media-icon ul {padding: 34px 0;}
+    #footer {padding: 48px 0;}
+    .blog-txt h4 {padding-bottom: 20px;}
+    .blog-profile {padding-top: 18px;}
+    .company-detail h6 {padding-bottom: 25px;}
+    .city ul li a {padding-bottom: 14px;}
+    #project::after {height: 142px;}
+    .career-row p {line-height: 28px;  padding-top: 38px;}
+    .inertia-main h3 {padding-bottom: 30px;}
+    .title-row {padding-bottom: 30px;}
+    .career-row h3 {padding-bottom: 30px;}
+    .banner-txt h6 {padding-bottom: 15px;}
+    .banner-txt {padding-top: 50px;}
+}
+
+@media screen and (max-width:991px) {
+    .menu ul {column-gap: 15px;}
+    .banner-txt h6 {padding-bottom: 10px; letter-spacing: 5.0px;}
+    h1 {font-size: 34px; line-height: 45px;}
+    h3 {font-size: 26px;}
+    #inertia {padding: 40px 0;}
+    .inertia-main p {line-height: 26px; padding-top: 25px;}
+    #project {padding-top: 58px;}
+    .employee-txt p {font-size: 16px; max-width: 356px; padding-bottom: 20px; line-height: 27px;}
+    .employee-main {padding: 60px 0;}
+    .stripe-logo {padding-bottom: 25px;}
+    #career {padding: 56px 0;}
+    .career-main {padding: 20px 0;}
+    .city ul li a {padding-bottom: 10px;}
+    .city h4 {padding-bottom: 12px;}
+    #blog {padding: 50px 0;}
+    h2 {font-size: 34px;}
+    .call-of-action h4 {max-width: 330px; font-size: 16px; padding-bottom: 20px;}
+    .social-media-icon ul {padding: 30px 0;}
+    .project-main {column-gap: 20px; row-gap: 20px; padding-top: 35px;}
+    .img-box {width: calc(33.33% - 13.33px);}
+    .banner-txt a {line-height: 40px; font-size: 13px;}
+    .call-of-action a {line-height: 36px; padding: 0 20px;}
+    .call-of-action h2 {padding-bottom: 10px;}
+    .button-row a {line-height: 40px; padding: 0 20px;}
+    h4 {font-size: 18px;}
+    .blog-txt h4 {padding-bottom: 10px;}
+    .blog-txt {padding-top: 20px;}
+    .blog-main {column-gap: 20px;}
+    .blog-box {width: calc(33.33% - 13.33px);}
+    #project::after {height: 100px;}
+    .inertia-main h3 {padding-bottom: 25px;}
+    .title-row {padding-bottom: 25px;}
+    .career-row p {line-height: 26px;}
+    .banner-txt h1 {padding-bottom: 20px;}
+    #project::after {margin-top: 34px;}
+    .call-of-action p {padding-bottom: 25px;}
+}
+@media screen and (max-width:767px) {
+    .toggle-bar {display: block; font-size: 24px;}
+    .header-right {flex-direction: row-reverse;}
+    .buy a {line-height: 30px;}
+    h1 {font-size: 26px; line-height: 40px;}
+    .banner-txt h1 {padding-bottom: 15px;}
+    .banner-txt h6 {padding-bottom: 5px; letter-spacing: 3px;}
+    .banner-txt a {line-height: 32px; padding: 0 20px;}
+    h3 {font-size: 24px;}
+    .inertia-main h3 {padding-bottom: 10px;}
+    .inertia-main p {line-height: 24px; padding-top: 20px;}
+    .inertia-main {max-width: 540px;}
+    #project {padding-top: 48px;}
+    .img-box {width: calc(50% - 10px);}
+    .project-main {padding-top: 25px;}
+    .employee-main {flex-wrap: wrap; row-gap: 30px;}
+    .employee-txt p {max-width: 500px; padding-bottom: 10px; line-height: 24px;}
+    .stripe-logo {padding-bottom: 15px;}
+    .career-main {column-gap: 28px;}
+    .button-row a {line-height: 40px; padding: 0 16px; font-size: 14px;}
+    #career {padding: 46px 0;}
+    h2 {font-size: 30px;}
+    .call-of-action h2 {padding-bottom: 10px;}
+    .call-of-action a {line-height: 34px; font-size: 14px; padding: 0 16px}
+    .call-of-action h4 {padding-bottom: 10px;}
+    .footer-main {flex-wrap: wrap; row-gap: 20px;}
+    .company-detail {width: 50%;}
+    .company-detail h6 {padding-bottom: 15px;}
+    .blog-box {width: calc(50% - 10px);}
+    .blog-main {column-gap: 20px; flex-wrap: wrap; row-gap: 30px;}
+    .blog-txt h4 {padding-bottom: 12px;}
+    .banner-txt {max-width: 396px;}
+    .banner-main {width: 100%; display: flex; justify-content: center;}
+    .title-row {padding-bottom: 20px;}
+    #project::after {height: 60px;}
+    .call-of-action-main {width: 100%; display: flex; justify-content: center;}
+    .call-of-action {max-width: 390px;}
+    .call-of-action p {padding-bottom: 15px;}
+    .career-row h3 {padding-bottom: 25px;}
+    .career-row p {padding-top: 32px;}
+    .menu ul { position: absolute; left: -100%; top: 72px; display: block; width: 100%; background-color: red; transition: all ease 0.6s; padding: 5px 0;}
+    .menu ul li {padding: 5px 0;}
+    .menu ul li a { width: 100%; padding: 10px 20px; display: inline-block;}
+    .menu ul li a:hover { text-decoration-line: none; background-color: #5A6C90; color: #fff;}
+    .menu.nav ul {left: 0;}
+
+
+}
+@media screen and (max-width:575px) {
+    .banner-txt h6 {padding-top: 10px; padding-bottom: 0;}
+    h1 {font-size: 24px; line-height: 35px;}
+    .banner-txt h1 {padding-bottom: 10px;}
+    .banner-txt a {padding: 0 15px;}
+    .inertia-main {max-width: 450px;}
+    .inertia-main p {line-height: 22px; padding-top: 10px;}
+    #inertia {padding: 30px 0;}
+    #project {padding-top: 28px;}
+    .employee-main {padding: 40px 0;}
+    .career-main {flex-wrap: wrap; row-gap: 20px; column-gap: 0px;}
+    .button-row a {line-height: 36px; padding: 0 12px; font-size: 14px;}
+    .city {width: 50%;}
+    #blog {padding: 30px 0;}
+    .blog-main {padding-top: 22px;}
+    .blog-txt {padding-top: 15px;}
+    .blog-txt h4 {padding-bottom: 8px;}
+    .blog-profile {padding-top: 15px;}
+    .call-of-action h2 {padding-bottom: 5px;}
+    h2 {font-size: 28px;}
+    .call-of-action a {line-height: 30px; padding: 0 12px;}
+    .call-of-action-main {width: 100%; display: flex; justify-content: center;}
+    .blog-title-row h3 {padding-bottom: 12px;}
+    #career {padding: 35px 0;}
+    .banner-txt {max-width: 360px;}
+    .title-row {padding-bottom: 15px;}
+    .project-main .img-box {width: calc(50% - 10px);}
+    .call-of-action p {padding-bottom: 10px;}
+    .career-row h3 {padding-bottom: 20px;}
+    .career-row p {padding-top: 24px;}
+    .company-detail {width: 100%;}
+    .company-detail h6 {padding-bottom: 10px;}
+}
+@media screen and (max-width:479px) {
+    .buy a {width: 81px; padding: 0 10px; line-height: 25px;}
+    .banner-main {width: 100%; display: flex; justify-content: center;}
+    .inertia-main {max-width: 290px;}
+    #header {padding: 10px 0;}
+    h1 {font-size: 20px; line-height: 25px;}
+    .banner-txt {max-width: 296px;}
+    .banner-txt h1 { padding-bottom: 15px; padding-top: 5px;}
+    .banner-txt a {line-height: 28px; padding: 0 12px;}
+    #footer {padding: 30px 0;}
+    .social-media-icon ul li a {font-size: 16px; width: 30px; height: 30px;}
+    .social-media-icon ul {padding: 20px 0;}
+    .blog-box {width: 100%;}
+    .blog-main {gap: 20px;}
+    .city {width: 100%;}
+    .career-main {row-gap: 15px;}
+    .city h4 {padding-bottom: 8px;}
+    .hire-img img {height: 220px; object-fit: cover; object-position: right;}
+    .banner-img img {height: 220px; object-fit: cover; object-position: center;}
+    h3 {font-size: 16px;}
+    .inertia-main p {line-height: 20px;}
+    .img-box {width: 100%;}
+    .project-main {padding-top: 20px;}
+    .title-row {padding-bottom: 10px;}
+    .project-main {row-gap: 15px;}
+    #project {padding-top: 28px;}
+    .employee-txt p {font-size: 15px; line-height: 22px; max-width: 356px; padding-bottom: 10px;}
+    .career-main {padding: 15px 0;}
+    .city ul li a {padding-bottom: 8px;}
+    .button-row a {line-height: 30px; padding: 0 10px; font-size: 13px;}
+    .button-row i {font-size: 14px; padding-left: 5px;}
+    .call-of-action i {padding-left: 5px;}
+    .call-of-action a {line-height: 28px;}
+    .banner-txt h6 {letter-spacing: 2.5px;}
+    p {font-size: 14px;}
+    .project-main .img-box {width: 100%;}
+    #project::after {height: 40px; margin-top: 25px;}
+    .career-row p {padding-top: 20px;}
+    .call-of-action {max-width: 300px;}
+    .banner-txt h6 {padding-top: 40px;}
+    .toggle-bar {padding-right: 0;}
+    .banner-txt {padding-top: 40px;}
+    .banner-txt h6 {padding-top: 0px;}
+    .menu ul {top: 50px;}
+}
